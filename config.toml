@@ -1,0 +1,5 @@
+[db]
+    name = "xxx"
+    dsn = "xxxx"
+[redis]
+    name = ""
