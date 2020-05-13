@@ -3,6 +3,7 @@
 目录结构中文https://www.jianshu.com/p/4726b9ac5fb1<br>
 单元测试的写法https://learnku.com/docs/learn-go-with-tests<br>
 错误处理https://www.cnblogs.com/qcrao-2018/p/11538387.html<br>
+gorm文档http://gorm.book.jasperxu.com/associations.html#bt<br>
 
 ## 模块拆分
 * 很多其它面向对象的编程语言都非常推崇MVC的架构模式，但在go语言中最好是按照职责对模块进行拆分。例如一个博客系统会有user、comment、article等模块，每一个模块都应对外提供相应的功能，如user模块就应包含相关的模型以及处理API请求的服务。
